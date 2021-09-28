@@ -138,8 +138,8 @@ namespace Image_Gallery
 
 
             //set up panel element for tile template
-            panelElement1.Children.Add(imageElement1);
-            panelElement1.Children.Add(textElement1);
+            //panelElement1.Children.Add(imageElement1);
+            //panelElement1.Children.Add(textElement1);
 
 
             //set proerties for _imageTileControl
